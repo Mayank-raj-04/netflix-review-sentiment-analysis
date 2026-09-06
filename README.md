@@ -81,6 +81,16 @@ The processed analysis includes the **After Price Hike** review period.
 
 ---
 
+## Google Colab
+
+The Python analysis notebook is also available on Google Colab for easy access and execution.
+
+**[Open the Notebook in Google Colab](https://colab.research.google.com/drive/1xYp7gcj4CHg5aNv4E9xBJF4TgBe6yqij?usp=sharing)**
+
+
+---
+
+
 ## 🔄 Project Workflow
 
 ```text
@@ -98,10 +108,4 @@ Interactive Dashboard
         ↓
 Data-Driven Insights
 
------
-
-## Google Colab
-
-The Python analysis notebook is also available on Google Colab for easy access and execution.
-
-**[Open the Notebook in Google Colab](https://colab.research.google.com/drive/1xYp7gcj4CHg5aNv4E9xBJF4TgBe6yqij?usp=sharing)**
+-----'''
