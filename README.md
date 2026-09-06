@@ -4,7 +4,7 @@ A data analytics project that analyzes Netflix user reviews using Python, Natura
 
 ## Project Overview
 
-This project analyzes customer reviews related to Netflix to understand the overall sentiment expressed by users.
+This project focuses on analyzing customer reviews related to Netflix to understand the sentiment expressed by users.
 
 The project combines Python-based data processing and sentiment analysis with an interactive Power BI dashboard for visualization and analysis.
 
@@ -20,6 +20,7 @@ The project uses Netflix review data obtained from the original dataset source.
 
 - Python
 - Jupyter Notebook
+- Google Colab
 - Pandas
 - Natural Language Processing (NLP)
 - Sentiment Analysis
